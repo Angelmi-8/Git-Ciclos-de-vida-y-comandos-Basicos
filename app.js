@@ -1,1 +1,1 @@
-console.log("prueba rama1");
+let carrito = [];
