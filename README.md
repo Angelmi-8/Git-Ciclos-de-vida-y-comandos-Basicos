@@ -1,2 +1,2 @@
-# Git-Ciclos-de-vida-y-comandos-Basicos
+# Git
 Taller practico de lenguajes digitales
