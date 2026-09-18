@@ -1,2 +1,2 @@
 # Git
-Taller practico de lenguajes digitales
+Taller practico de Git para lenguajes digitales segundo semestre 
